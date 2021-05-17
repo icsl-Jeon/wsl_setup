@@ -13,6 +13,10 @@ sudo apt-get update
 # in ~/.bashrc 
 export DISPLAY="`grep nameserver /etc/resolv.conf | sed 's/nameserver //'`:0"
 export LIBGL_ALWAYS_INDIRECT=0 
+
+
+echo 'set bell-style none' >> /etc/inputrc
+
 ```
 
 
