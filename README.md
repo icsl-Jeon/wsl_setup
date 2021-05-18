@@ -25,10 +25,10 @@ echo 'set bell-style none' >> /etc/inputrc
 
 ## Install vscode 
 
-* download [vscode](https://evandde.github.io/vscode-wsl/) in window and install wsl extension
+* Download [vscode](https://evandde.github.io/vscode-wsl/) in window and install wsl extension
 * In WSL terminal, just type `code` and enter.
 * Setups are found [here](https://blog.jiktong.kr/entry/vs-code%EC%97%90%EC%84%9C-cc-%EC%BB%B4%ED%8C%8C%EC%9D%BC)
-
+* Install ROS extension, and `ctrl+shift+p`, call `ROS: update c_cpp_properties.json`. This will automatically update include directory.
 
 
 ## [Note tested] Using [wslg](https://docs.microsoft.com/ko-kr/windows/wsl/tutorials/gui-apps) (gui ) without x-forwarding 
