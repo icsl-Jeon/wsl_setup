@@ -27,6 +27,7 @@ echo 'set bell-style none' >> /etc/inputrc
 
 * download [vscode](https://evandde.github.io/vscode-wsl/) in window and install wsl extension
 * In WSL terminal, just type `code` and enter.
+* Setups are found [here](https://blog.jiktong.kr/entry/vs-code%EC%97%90%EC%84%9C-cc-%EC%BB%B4%ED%8C%8C%EC%9D%BC)
 
 
 
