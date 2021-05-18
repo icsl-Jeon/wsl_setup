@@ -18,7 +18,9 @@ export LIBGL_ALWAYS_INDIRECT=0
 echo 'set bell-style none' >> /etc/inputrc
 
 ```
+## Register xlaunch startup program 
 
+[ref](https://hoodiejun.tistory.com/13) 
 
 
 ## Using [wslg](https://docs.microsoft.com/ko-kr/windows/wsl/tutorials/gui-apps) (gui ) without x-forwarding 
