@@ -8,7 +8,7 @@
   * xLaunch `-ac` and uncheck Native Opengl 
   * [Register xlaunch startup program ](https://hoodiejun.tistory.com/13) 
   * Then, launch [Window Terminal](https://wslhub.com/wsl-firststep/devsetup/multiplexer/) 
-  * Keyboard shortcut to open terminal: [see](https://blog.danskingdom.com/Bring-up-the-Windows-Terminal-in-a- keystroke/)
+  * Keyboard shortcut to open terminal: [see](https://docs.microsoft.com/ko-kr/windows/terminal/panes)
 
 ### In WSL Ubuntu 
 ```
