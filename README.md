@@ -7,6 +7,7 @@
   * Install vcsrv
   * xLaunch `-ac` and uncheck Native Opengl 
   * [Register xlaunch startup program ](https://hoodiejun.tistory.com/13) 
+  * Then, launch [Window Terminal](https://wslhub.com/wsl-firststep/devsetup/multiplexer/) 
 
 
 ### In WSL Ubuntu 
